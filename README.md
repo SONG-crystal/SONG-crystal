@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'm%20looking%20for%20a%20co-op%20opportunity&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
 ## ✨Best way to meet me
-<img src="https://img.shields.io/badge/SuJung-Song-0A66c2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+<img src="https://img.shields.io/badge/SuJungSong-0A66c2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 #### 👋Hi there! I'm 
 <!--
 ![header](https://capsule-render.vercel.app/api?
