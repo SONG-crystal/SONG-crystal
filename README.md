@@ -5,10 +5,11 @@
  
 👋 Hi there! 
 I'm a student pursing an Advanced Diploma in Computer Programming Anlaysis at Seneca College. 🚀
-I hope to 
-🖥️
-👨‍💻
-💖
+I hope to    
+🖥️   
+👨‍💻   
+💖   
+<hr/>   
 
  2nd Semester, Computer Programming Anlaysis Student
 ## 💪Skills
