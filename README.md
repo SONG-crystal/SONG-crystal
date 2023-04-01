@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Hi%20👋%20I'm%20SuJung%20Song&height=200&fontSize=50&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Hi%20👋%20I'm%20SuJung%20Song&height=200&fontSize=50&animation=blink&fontColor=d6ace6)
 
 <!--
 %20👋
