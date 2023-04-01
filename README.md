@@ -10,7 +10,7 @@ I hope to
 🖥️   
 👨‍💻   
 💖   
-<hr/>   
+  
 
  2nd Semester, Computer Programming Anlaysis Student
 ## 💪Skills
