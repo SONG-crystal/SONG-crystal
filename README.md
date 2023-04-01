@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8%height=150&text=I'm%20looking%20for%20a%20co-op%20opportunity&fontColor=ffffff&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8%height=150&text=I'm%20looking%20for%20a%20co-op%20opportunity&fontColor=ffffff&fontSize=20&animation=blink&fontAlign=70&fontAlignY=30)
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
 ## ✨Best way to meet me
 
 [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujung-song-9b501b267/)](https://www.linkedin.com/in/sujung-song-9b501b267/)  [![Sent Email Badge](https://img.shields.io/badge/crystalsong0610@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:crystalsong0610@gmail.com)
@@ -9,7 +8,7 @@
 #### 👋Hi there! I'm 
 <!--
 
-&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'm%20looking%20for%20a%20co-op%20opportunity&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
 
