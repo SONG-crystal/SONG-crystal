@@ -2,6 +2,7 @@
 ## ✨Best way to meet me
 <img src="https://img.shields.io/badge/SuJungSong-0A66c2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 ![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2&logo=LinkedIn&logoColor=0A66C2&link=https://www.linkedin.com/feed/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jane--Doe-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janedoe/)](https://www.linkedin.com/in/janedoe/)
 
 
 
