@@ -11,7 +11,7 @@
 ## ✨Skills
 ![C Badge](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=white)    
 ![C++ Badge](https://img.shields.io/badge/-++-00599C?style=flat&logo=C&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/--FCC624?style=flat&logo=linux&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## ✨Tools
 
