@@ -1,6 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=slice&height=150&section=header&text=%20Hello%20&fontSize=50&rotate=11&animation=fadeIn&fontAlign=80&fontAlignY=20)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 
 <!--
 %20👋
