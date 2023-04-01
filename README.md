@@ -2,12 +2,10 @@
 ## ✨Best way to meet me
 
 [![Revolt.chat Badge](https://img.shields.io/badge/-Resume-F89901?style=flat&logo=Revolt.chat&logoColor=white&link=https://www.naver.com/)](https://www.naver.com/)   [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujung-song-9b501b267/)](https://www.linkedin.com/in/sujung-song-9b501b267/)   [![Sent Email Badge](https://img.shields.io/badge/crystalsong0610@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:crystalsong0610@gmail.com)   ![Coursera Badge](https://img.shields.io/badge/-647%20534%208642-319795?style=flat&logo=Coursera&logoColor=white)
-
-
  
 ### 👋Hi there! I'm 
 
-<img src=https://user-images.githubusercontent.com/116604389/229266342-a30c814f-c9df-4cc1-86fe-5bdec710f207.jpg width="3%"> Computer Programming Anlaysis Student
+<img src=https://user-images.githubusercontent.com/116604389/229266342-a30c814f-c9df-4cc1-86fe-5bdec710f207.jpg width="2%"> 2nd Semester, Computer Programming Anlaysis Student
 ## ✨Skills
 ![C Badge](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/-++-00599C?style=flat&logo=C&logoColor=white)
@@ -17,8 +15,6 @@
 ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FF9E2A?style=flat&logo=linux&logoColor=black)
-
-
 
 ## ✨Libraries
 ![Nodejs Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -31,11 +27,6 @@
 ![VS Badge](https://img.shields.io/badge/-VS-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Badge](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/-Jira%20Software-0052CC?style=flat&logo=Jira%20Software&logoColor=white)
-
-
-
-
-
 
 
 <!--
