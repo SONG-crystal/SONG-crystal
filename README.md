@@ -21,12 +21,10 @@ I hope to
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FF9E2A?style=flat&logo=linux&logoColor=black)
 
-## 💪Libraries
 ![Nodejs Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/-Jira%20Software-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## 💪Tools
 ![git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![VS Badge](https://img.shields.io/badge/-VS-5C2D91?style=flat&logo=visualstudio&logoColor=white)
