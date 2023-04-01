@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8%height=150&text=I'm%20looking%20for%20a%20co-op%20opportunity&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8%height=150&text=I'm%20looking%20for%20a%20co-op%20opportunity&fontColor=ffffff&fontSize=20)
 
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
 ## ✨Best way to meet me
@@ -9,7 +9,7 @@
 #### 👋Hi there! I'm 
 <!--
 
-&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
+&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'm%20looking%20for%20a%20co-op%20opportunity&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
 
