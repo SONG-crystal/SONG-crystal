@@ -18,9 +18,9 @@
 ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ## ✨Tools
-![git Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHubS&logoColor=white)
-![Jira Badge](https://img.shields.io/badge/-Jira%20Software-0052CC?style=flat&logo=JiraS&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/-Jira%20Software-7952B3?style=flat&logo=BootstrapS&logoColor=white)
+![git Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![Jira Badge](https://img.shields.io/badge/-Jira%20Software-0052CC?style=flat&logo=Jira%20Software&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/-Jira%20Software-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'm%20looking%20for%20a%20co-op%20opportunity&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
