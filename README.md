@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuJung Song)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuJungSong)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SONG-crystal/SONG-crystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
