@@ -15,6 +15,7 @@
 ![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-783CBD?style=flat&logo=JavaScript&logoColor=white)
+![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 ## ✨Tools
 
 
