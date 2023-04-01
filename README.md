@@ -21,7 +21,7 @@
 
 
 ## ✨Libraries
-![Nodejs Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodejs&logoColor=white)
+![Nodejs Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/-Jira%20Software-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
