@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&text=I'm%20looking%20for%20a%20co-op%20opportunity&fontColor=d6ace6&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&fontColor=d6ace6&text=I'm%20looking%20for%20a%20co-op%20opportunity&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
 
 
 ## ✨Best way to meet me
