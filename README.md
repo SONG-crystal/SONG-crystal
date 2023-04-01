@@ -3,6 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujung-song-9b501b267/)](https://www.linkedin.com/in/sujung-song-9b501b267/)
 
+[![Sent Email Badge](https://img.shields.io/badge/Email%20Sent-Yes-brightgreen?style=flat-square)](mailto:EMAIL_ADDRESS_HERE)
 
 
 #### 👋Hi there! I'm 
