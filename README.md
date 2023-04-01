@@ -2,6 +2,9 @@
 ## ✨Best way to meet me
 <img src="https://img.shields.io/badge/SuJungSong-0A66c2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2&logo=LinkedIn&logoColor=0A66C2&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyejin-won-0767971b7/)](https://www.linkedin.com/in/hyejin-won-0767971b7/)
+[출처] [git] github profile badge 만들기|작성자 wanna jin
+
 
 #### 👋Hi there! I'm 
 <!--
