@@ -1,5 +1,6 @@
 ### Hi there 👋
-![header](https://github.com/sujungchoi/sujungchoi/blob/main/assets/header.gif)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there!%20👋%20I'm%20SuJung&fontSize=70&animation=fadeIn&fontAlignY=38)
+
 
 
 
