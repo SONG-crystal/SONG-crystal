@@ -3,8 +3,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujung-song-9b501b267/)](https://www.linkedin.com/in/sujung-song-9b501b267/)
 
-[![Sent Email Badge](https://img.shields.io/badge/Email%20crystalsong0610@gmail.com-brightgreen?style=flat&logo=Gmail&logoColor=EA4335)](mailto:crystalsong0610@gmail.com)
-
+[![Sent Email Badge](https://img.shields.io/badge/crystalsong0610@gmail.com-brightgreen?style=flat&logo=Gmail&logoColor=white)](mailto:crystalsong0610@gmail.com)
+EA4335
 
 #### 👋Hi there! I'm 
 <!--
