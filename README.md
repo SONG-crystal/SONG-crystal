@@ -1,6 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&)
+![header](https://capsule-render.vercel.app/api?
+type=waving&
+color=gradient&
+text=I'm%20looking%20for%20a%20co-op%20opportunity&
+height=150&
+fontSize=40&
+animation=blink&
+fontColor=000000&
+fontAlign=30&
+fontAlignY=30
+)
 ## ✨Best way to meet me
-
+# 👋Hi there! I'm 
 <!--
 ![header](https://capsule-render.vercel.app/api?
 type=waving&
