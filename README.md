@@ -4,8 +4,9 @@
 [![Revolt.chat Badge](https://img.shields.io/badge/-Resume-F89901?style=flat&logo=Revolt.chat&logoColor=white&link=https://www.naver.com/)](https://www.naver.com/)   [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujung-song-9b501b267/)](https://www.linkedin.com/in/sujung-song-9b501b267/)   [![Sent Email Badge](https://img.shields.io/badge/crystalsong0610@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:crystalsong0610@gmail.com)   ![Coursera Badge](https://img.shields.io/badge/-647%20534%208642-319795?style=flat&logo=Coursera&logoColor=white)
  
 👋 Hi there! 
-I'm a student pursing an Advanced Diploma in Computer Programming Anlaysis at Seneca College. 🚀
-I hope to    
+I'm a student pursing an Advanced Diploma in Computer Programming Anlaysis at Seneca College. 
+I hope to   
+🚀   
 🖥️   
 👨‍💻   
 💖   
