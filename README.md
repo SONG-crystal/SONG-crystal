@@ -16,8 +16,10 @@
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-783CBD?style=flat&logo=JavaScript&logoColor=white)
 ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ## ✨Tools
-
+![git Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHubS&logoColor=white)
+![Jira Badge](https://img.shields.io/badge/-Jira%20Software-0052CC?style=flat&logo=JiraS&logoColor=white)
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'm%20looking%20for%20a%20co-op%20opportunity&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
