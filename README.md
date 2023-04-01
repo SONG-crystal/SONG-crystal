@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-<!--
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+
 **SONG-crystal/SONG-crystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
