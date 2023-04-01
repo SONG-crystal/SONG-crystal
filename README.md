@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'm%20looking%20for%20a%20co-op%20opportunity&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
 ## ✨Best way to meet me
 <img src="https://img.shields.io/badge/SuJungSong-0A66c2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-[![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2&logo=LinkedIn&logoColor=0A66C2&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyejin-won-0767971b7/)](https://www.linkedin.com/in/hyejin-won-0767971b7/)
-[출처] [git] github profile badge 만들기|작성자 wanna jin
+![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2&logo=LinkedIn&logoColor=0A66C2&link=https://www.linkedin.com/feed/)
+
 
 
 #### 👋Hi there! I'm 
