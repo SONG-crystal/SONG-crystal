@@ -1,6 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Hi%20👋%20%20I'm%20SuJung%20Song&height=130&fontSize=40&animation=blink&fontColor=000000&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20👋%20%20I'm%20SuJung%20Song&height=130&fontSize=40&animation=blink&fontColor=000000&fontAlign=50)
 
 <!--
+![header](https://capsule-render.vercel.app/api?
+type=waving&
+color=gradient&
+text=Hi%20👋%20%20I'm%20SuJung%20Song&
+height=130&
+fontSize=40&
+animation=blink&
+fontColor=000000&
+fontAlign=50)
+
+
+
+
+
+
 %20👋
 **SONG-crystal/SONG-crystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
