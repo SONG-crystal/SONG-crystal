@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving%height=150&color=0:feac5e,50:c779d0,100:4bc0c8&text=I'm%20looking%20for%20a%20co-op%20opportunity&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8%height=150&text=I'm%20looking%20for%20a%20co-op%20opportunity&fontColor=ffffff)
 
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
 ## ✨Best way to meet me
