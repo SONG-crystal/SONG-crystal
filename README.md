@@ -12,7 +12,7 @@
 ![C Badge](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=white)   
 
 ## ✨Tools
-![C++ Badge](https://img.shields.io/badge/--00599C?style=flat&logo=C++&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=white)
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'm%20looking%20for%20a%20co-op%20opportunity&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
 
