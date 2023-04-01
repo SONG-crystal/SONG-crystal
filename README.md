@@ -11,8 +11,10 @@
 ## ✨Skills
 ![C Badge](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=white)    
 ![C++ Badge](https://img.shields.io/badge/-++-00599C?style=flat&logo=C&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
-
+![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-E34F26?style=flat&logo=CSS&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-E34F26?style=flat&logo=JavaScript&logoColor=white)
 ## ✨Tools
 
 
