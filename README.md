@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8%height=150&text=I'm%20looking%20for%20a%20co-op%20opportunity&fontColor=ffffff&fontSize=20&animation=blink&fontAlign=70&fontAlignY=30)
 ## ✨Best way to meet me
 
-[![Reason Badge](https://img.shields.io/badge/-Resume-F89901?style=flat&logo=Reason&logoColor=white&link=https://www.naver.com/)](https://www.naver.com/)   
+[![Remix Badge](https://img.shields.io/badge/-Resume-F89901?style=flat&logo=Remix&logoColor=white&link=https://www.naver.com/)](https://www.naver.com/)   
 
 [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujung-song-9b501b267/)](https://www.linkedin.com/in/sujung-song-9b501b267/)  [![Sent Email Badge](https://img.shields.io/badge/crystalsong0610@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:crystalsong0610@gmail.com)
 
