@@ -4,10 +4,14 @@
 [![Revolt.chat Badge](https://img.shields.io/badge/-Resume-F89901?style=flat&logo=Revolt.chat&logoColor=white&link=https://www.naver.com/)](https://www.naver.com/)   [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujung-song-9b501b267/)](https://www.linkedin.com/in/sujung-song-9b501b267/)   [![Sent Email Badge](https://img.shields.io/badge/crystalsong0610@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:crystalsong0610@gmail.com)   ![Coursera Badge](https://img.shields.io/badge/-647%20534%208642-319795?style=flat&logo=Coursera&logoColor=white)
  
 👋 Hi there! 
-I'm student pursing an Advanced Diploma in Computer Programming Anlaysis at Seneca College. 🚀
+I'm a student pursing an Advanced Diploma in Computer Programming Anlaysis at Seneca College. 🚀
+I hope to 
+🖥️
+👨‍💻
+💖
 
-<img src=https://user-images.githubusercontent.com/116604389/229266342-a30c814f-c9df-4cc1-86fe-5bdec710f207.jpg width="2%"> 2nd Semester, Computer Programming Anlaysis Student
-## ✨Skills
+ 2nd Semester, Computer Programming Anlaysis Student
+## 💪Skills
 ![C Badge](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/-++-00599C?style=flat&logo=C&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
@@ -17,12 +21,12 @@ I'm student pursing an Advanced Diploma in Computer Programming Anlaysis at Sene
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FF9E2A?style=flat&logo=linux&logoColor=black)
 
-## ✨Libraries
+## 💪Libraries
 ![Nodejs Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/-Jira%20Software-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## ✨Tools
+## 💪Tools
 ![git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![VS Badge](https://img.shields.io/badge/-VS-5C2D91?style=flat&logo=visualstudio&logoColor=white)
@@ -31,6 +35,8 @@ I'm student pursing an Advanced Diploma in Computer Programming Anlaysis at Sene
 
 
 <!--
+<img src=https://user-images.githubusercontent.com/116604389/229266342-a30c814f-c9df-4cc1-86fe-5bdec710f207.jpg width="2%">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'm%20looking%20for%20a%20co-op%20opportunity&height=150&fontSize=20&animation=blink&fontColor=d6ace6&fontAlign=70&fontAlignY=30)
 
 
