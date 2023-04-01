@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://I'm SuJung.vercel.app/api?text=capsule_render&animation=scaleIn)
+![header](https://I'mSuJung.vercel.app/api?text=capsule_render&animation=scaleIn)
 
 <!--
 **SONG-crystal/SONG-crystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
