@@ -9,7 +9,7 @@
 
 
 ## ✨Skills
-![Coursera Badge](https://img.shields.io/badge/--#A8B9CC?style=flat&logo=C&logoColor=white)   ![Coursera Badge](https://img.shields.io/badge/--#00599C?style=flat&logo=C++&logoColor=white)
+![C Badge](https://img.shields.io/badge/--#A8B9CC?style=flat&logo=C&logoColor=white)   ![C++ Badge](https://img.shields.io/badge/--#00599C?style=flat&logo=C++&logoColor=white)
 ## ✨Tools
 
 <!--
