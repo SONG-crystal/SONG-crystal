@@ -1,6 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hi%20there!%20👋%20I'm%20SuJung&fontSize=70&animation=fadeIn&fontAlignY=38)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30text=Hello%World!&fontSize=20&rotate=-30)
 
 
 
