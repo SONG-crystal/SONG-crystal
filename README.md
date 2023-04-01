@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?text=Hi%I'm%SuJung&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Hi%I'm SuJung&animation=fadeIn)
 
 
 <!--
