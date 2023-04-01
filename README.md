@@ -13,7 +13,7 @@ I hope to
 
  2nd Semester, Computer Programming Anlaysis Student
 ## 💪Skills
-####Languages, Libraries and Tools
+#### Languages, Libraries and Tools   
 ![C Badge](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/-++-00599C?style=flat&logo=C&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
