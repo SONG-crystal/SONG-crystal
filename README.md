@@ -8,7 +8,7 @@
 ### 👋Hi there! I'm 
 
 ![seneca](https://user-images.githubusercontent.com/116604389/229266342-a30c814f-c9df-4cc1-86fe-5bdec710f207.jpg)
-
+<img src=https://user-images.githubusercontent.com/116604389/229266342-a30c814f-c9df-4cc1-86fe-5bdec710f207.jpg width="5%">
 ## ✨Skills
 ![C Badge](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/-++-00599C?style=flat&logo=C&logoColor=white)
