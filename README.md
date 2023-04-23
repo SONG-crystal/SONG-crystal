@@ -6,13 +6,15 @@
 👋 Hi there! 
 I'm a student pursing an Advanced Diploma in Computer Programming Anlaysis at Seneca College. 
 I hope to   
-🚀   
-🖥️   
-👨‍💻   
-💖   
+
+## 👨‍About me👨‍💻 👨‍
+👨‍💻 I am learning about
+🖥️ 3rd semester, Computer Programming Anlaysis Student
+💖 I love nature, animal, travel and what I have been learning
+🚀 
   
 
- 2nd Semester, Computer Programming Anlaysis Student
+
 ## 💪Skills
 #### Languages, Libraries and Tools   
 ![C Badge](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=white)
