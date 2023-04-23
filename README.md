@@ -2,7 +2,8 @@
 ## ✨Best way to meet me
 [![Revolt.chat Badge](https://img.shields.io/badge/-My%20Web%20Page-F89901?style=flat&logo=Revolt.chat&logoColor=white)](https://darling-donut-849f3d.netlify.app/)  [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujung-song-9b501b267/)](https://www.linkedin.com/in/sujung-song-9b501b267/)   [![Sent Email Badge](https://img.shields.io/badge/crystalsong0610@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:crystalsong0610@gmail.com)   ![Coursera Badge](https://img.shields.io/badge/-647%20534%208642-319795?style=flat&logo=Coursera&logoColor=white)
 
-(https://img.shields.io/badge/-My--Web--Page-F89901?style=flat)](https://darling-donut-849f3d.netlify.app/)
+[![Badge](https://img.shields.io/badge/-My--Web--Page-F89901?style=flat&logo=Revolt.chat&logoColor=white)](https://darling-donut-849f3d.netlify.app/)
+
 
 
 
