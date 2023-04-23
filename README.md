@@ -13,7 +13,7 @@
 
 💖 I love nature, animal, travel and what I have been learning
 
-🚀 
+🚀 I want to become a volunteer developer who uses programming skills for social impact
   
   
   
