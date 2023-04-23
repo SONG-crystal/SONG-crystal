@@ -25,7 +25,7 @@ I hope to
 ![Linux Badge](https://img.shields.io/badge/-Linux-FF9E2A?style=flat&logo=linux&logoColor=black)
 
 ![Nodejs Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/-Boot%Strap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/-Boot-Strap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ![git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
