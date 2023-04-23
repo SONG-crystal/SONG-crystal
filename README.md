@@ -9,11 +9,11 @@
 ## 👨‍About me
 👨‍💻 I am a positive and responsible person
 
-🖥️ 3rd semester, Computer Programming Anlaysis at Seneca College
+🖥️ I am currently in 3rd semester of Computer Programming Analysis at Seneca College
 
-💖 I love nature, animal, travel and what I have been learning
+💖 I love nature, animal and travel as well as what I have been learning
 
-🚀 I want to become a volunteer developer who uses my programming skills to make a positive impact on society
+🚀 My goal is to become a volunteer developer who can contribute to meaningful projects that benefit society
   
   
   
