@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8%height=150&text=I'm%20looking%20for%20a%20co-op%20opportunity&fontColor=ffffff&fontSize=25&animation=blink&fontAlign=70&fontAlignY=30)
 ## ✨Best way to meet me
-[![Linkedin Badge](https://img.shields.io/badge/-My-Web-Page-F89901?style=flat&logo=Revolt.chat&logoColor=white&link=https://darling-donut-849f3d.netlify.app/))](https://darling-donut-849f3d.netlify.app/)   
+[![Revolt.chat Badge](https://img.shields.io/badge/-My-Web-Page-F89901?style=flat&logo=Revolt.chat&logoColor=white&link=https://darling-donut-849f3d.netlify.app/))](https://darling-donut-849f3d.netlify.app/)   
  
 [![Linkedin Badge](https://img.shields.io/badge/-SuJung--Song-%230A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujung-song-9b501b267/)](https://www.linkedin.com/in/sujung-song-9b501b267/)   [![Sent Email Badge](https://img.shields.io/badge/crystalsong0610@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:crystalsong0610@gmail.com)   ![Coursera Badge](https://img.shields.io/badge/-647%20534%208642-319795?style=flat&logo=Coursera&logoColor=white)
 
