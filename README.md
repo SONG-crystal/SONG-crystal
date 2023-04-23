@@ -5,7 +5,7 @@
 
 
 ## 👨‍About me
-👨‍💻 I am a positive and responsible person
+👨‍💻 I am a positive and responsible person<
 🖥️ 3rd semester, Computer Programming Anlaysis at Seneca College
 💖 I love nature, animal, travel and what I have been learning
 🚀 
