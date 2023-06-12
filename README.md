@@ -9,7 +9,7 @@
 
 🖥️ I am currently in 3rd semester of Computer Programming Analysis at Seneca College
 
-💖 I love nature, animal and travel as well as what I have been learning
+💖 I love nature, animal, and travel as well as what I have been learning
 
 🚀 My goal is to become a volunteer developer who can contribute to meaningful projects that benefit society
 </br></br></br></br>
