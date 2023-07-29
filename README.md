@@ -7,7 +7,7 @@
 ## 👨‍About me
 👨‍💻 I am a positive and responsible person
 
-🖥️ I am currently in 3rd semester of Computer Programming Analysis at Seneca College
+🖥️ I am a sophomore at Seneca College studying Computer Programming Analysis 
 
 💖 I love nature, animal, and travel as well as what I have been learning
 
